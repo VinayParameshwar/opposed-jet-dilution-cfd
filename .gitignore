@@ -1,0 +1,7 @@
+# Windows download-marker files created in WSL
+*:Zone.Identifier
+*Zone.Identifier
+
+# Python cache
+__pycache__/
+*.pyc
