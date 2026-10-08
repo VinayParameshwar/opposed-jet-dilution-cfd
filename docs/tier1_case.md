@@ -89,20 +89,6 @@ coefficients from Burcat & Ruscic ANL-05/20, AIR record. Verified: c_p = 1005.1 
 
 k-omega SST baseline, realizable k-epsilon for comparison. Wall functions, y+ 30–300.
 
-## Assumptions needing a sensitivity run
-
-- **Inlet velocity profile.** No measured profile is reported. Penetration at low J depends
-  on the approaching boundary layer, so this is first-order.
-- **Inlet turbulence.** No intensity or length scale given for this series.
-
-## Open items on the source data
-
-1. Table III did not survive OCR. Configuration and conditions above are reconstructed from
-   Table II and figure headers. Some figure-header digits are corrupted — reported blowing
-   rates do not reconcile with the velocities — so J, velocities and temperature ratios are
-   trusted and the rest needs the original scan.
-2. Test 2's J (~21.59) is inferred, not read.
-3. D_j, as above.
 
 ## References
 
